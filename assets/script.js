@@ -547,7 +547,7 @@ function fetchPokemon(choice) {
   anime({
     targets: '.professorOak',
     translateY: 500,
-    scale: 100,
+    scale: 75,
   })
 }
 
